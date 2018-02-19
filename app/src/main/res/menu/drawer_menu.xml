@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/id1"><!-- means only one activity can be selected from navifgation bar menu -->
+
+        <item
+            android:id="@+id/home"
+            android:title="home"
+            ></item>
+
+        <item
+            android:id="@+id/and"
+            android:title="android"
+            ></item>
+
+        <item
+            android:id="@+id/ios"
+            android:title="ios"></item>
+
+        <!-- can also use icon using android:icon and then selecting in <item -->
+
+
+
+
+    </group>
+
+<!-- second grooup to place a line in nav bar menu -->
+
+<group android:checkableBehavior="single"
+    android:id="@+id/id2">
+
+    <item
+        android:id="@+id/news"
+        android:title="news"></item>
+
+
+    <item
+        android:id="@+id/about"
+        android:title="about us"></item>
+
+
+
+</group>
+
+
+</menu>

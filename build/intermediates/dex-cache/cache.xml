@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/kiran/Documents/Superhero/app/build/intermediates/pre-dexed/debug/glide-3.7.0_d5c5ac2668203424c83837f5afb568aa52fef59a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/kiran/Documents/Superhero/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_f1ff38a61f7f37ac324decc3a237627254168980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/b842f960942503cf1abbcc8c173a7f2c19d43726/jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="/home/kiran/Documents/Superhero/app/build/intermediates/pre-dexed/debug/jsoup-1.10.3_a970e7df43327333303b295bcba45b99889e8bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/kiran/Documents/Superhero/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4adf90acf706d8e7110a6500d9679283f14cbf87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/kiran/Documents/Superhero/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_09d4c0aa84873abc4b51e76cce8dbbd19d3385b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/kiran/Documents/Superhero/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_aaade0589b7f0de07b8ac77e361f4f13f3d81398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/kiran/Documents/Superhero/app/build/intermediates/pre-dexed/debug/gson-2.7_d4a64aded2647c4f50b6e9e4e51216929a27d1b7.jar" />
+    </item>
+
+</items>
